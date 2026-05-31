@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvelete",
+        "uuid": 6627366,
+        "checksum": "0046cg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
